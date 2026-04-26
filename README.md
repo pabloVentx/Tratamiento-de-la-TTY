@@ -6,14 +6,14 @@ Lo que nos va a permitir esto: <b>Poder limpiar la consola(CTRL + L), ver el his
 <hr>
 Comandos que hay seguir en orden para conseguir una shell estable:<br>
 <br>
-1.<b>script /dev/null -c bash</b>b>
+1.<b>script /dev/null -c bash</b>
 <br>
-2.<b>CTRL + Z</b>b>
+2.<b>CTRL + Z</b>
 <br>
-3.<b>stty raw -echo; fg</b>b>
+3.<b>stty raw -echo; fg</b>
 <br>
 4.<b>reset xterm</b>b>
 <br>
-5.<b>export TERM=xterm</b>b>
+5.<b>export TERM=xterm</b>
 <br>
-6.<b>export SHELL=bash</b>b>
+6.<b>export SHELL=bash</b>
