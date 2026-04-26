@@ -12,7 +12,7 @@ Comandos que hay seguir en orden para conseguir una shell estable:<br>
 <br>
 3.<b>stty raw -echo; fg</b>
 <br>
-4.<b>reset xterm</b>b>
+4.<b>reset xterm</b>
 <br>
 5.<b>export TERM=xterm</b>
 <br>
