@@ -6,7 +6,6 @@ Lo que nos va a permitir esto: <b>Poder limpiar la consola(CTRL + L), ver el his
 <hr>
 Comandos que hay seguir en orden para conseguir una shell estable:<br>
 <br>
-(0.1)
 1.<b>script /dev/null -c bash</b>
 <br>
 2.<b>CTRL + Z</b>
