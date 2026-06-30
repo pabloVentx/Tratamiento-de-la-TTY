@@ -6,6 +6,7 @@ Lo que nos va a permitir esto: <b>Poder limpiar la consola(CTRL + L), ver el his
 <hr>
 Comandos que hay seguir en orden para conseguir una shell estable:<br>
 <br>
+(0.1)
 1.<b>script /dev/null -c bash</b>
 <br>
 2.<b>CTRL + Z</b>
@@ -17,3 +18,6 @@ Comandos que hay seguir en orden para conseguir una shell estable:<br>
 5.<b>export TERM=xterm</b>
 <br>
 6.<b>export SHELL=bash</b>
+<br>
+<br>
+Extra: Cuando se accede por ssh, se suele usar <b>export TERM=xterm</b> para mejorar el TRY de la sesión.
