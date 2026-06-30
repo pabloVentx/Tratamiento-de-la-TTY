@@ -20,4 +20,4 @@ Comandos que hay seguir en orden para conseguir una shell estable:<br>
 6.<b>export SHELL=bash</b>
 <br>
 <br>
-Extra: Cuando se accede por ssh, se suele usar <b>export TERM=xterm</b> para mejorar el TRY de la sesión.
+Extra: Cuando se accede por ssh, se suele usar <b>export TERM=xterm</b> para mejorar la TTY de la sesión.
